@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/StrategyPatternDemo.ConsoleApp/bin/Debug/net7.0
+/StrategyPatternDemo.ConsoleApp/obj
+/StrategyPatternDemoPartTwo.ConsoleApp/bin/Debug/net7.0
+/StrategyPatternDemoPartTwo.ConsoleApp/obj
